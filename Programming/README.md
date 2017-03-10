@@ -1,6 +1,6 @@
 # Programming
 
-Included is a sample of work that I consider to be pure programming. We were tasked with assessing the time complexity of the [quicksort algorithm](https://en.wikipedia.org/wiki/Quicksort) and estimating the estimated runtime for an array of size `n`. 
+Included is a sample of work in the domain of computer science. We were tasked with assessing the time complexity of the [quicksort algorithm](https://en.wikipedia.org/wiki/Quicksort) and estimating the estimated runtime for an array of size `n`. 
 
 ## Contents
 
