@@ -6,13 +6,16 @@ The raw data came to us in the form of a webscrape of the online offender based 
 
 ## Contents
 
+- `2016 hack poster Code for Tampa Bay.pdf`: Promotional flier associated with the Tampa Bay initiative
+- `Homelessness_Tampa_Bay.pdf`: A preliminary analysis of the cleaned database
 - **cleaned-data**:
 	* `booking_add.clean.example`: The head of the cleaned charges dataset
 	* `release.clean.example`: The head of the cleaned release dataset
 - **input-data**
 	* `[1-9] LAYOUT CSV.csv`: Raw webscrape data to be used in preprocessing
 - **preprocessing**
-	* `assignment2add_charges.py`: Python program responsible for extracting the charges data from the raw webscrape
-	* `assignment2releasefinal.py`: Python program responsible for extracting the release data from the raw webscrape
+	* `add_charges.py`: Python program responsible for extracting the charges data from the raw webscrape
+	* `releasefinal.py`: Python program responsible for extracting the release data from the raw webscrape
+	
 
 
