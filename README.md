@@ -1,13 +1,6 @@
-# Federal-Reserve-Internship-Portfolio
+# Federal Reserve Bank of Kansas City: Internship Portfolio 
 
-I have collected a small-subset of my work that I believe demonstrates the skills that you are looking for in a intern. For convenience sake I have organized my work into three directories outlined below. No single project or program included can be boiled down into a single category, so I have taken some creative liberty in assigning each entry. 
-
-## Contents:
-
-- **Analysis-and-Modeling**
-- **Data-Collection**
-- **Programming**
-
+I have collected a small subset of my work that I believe demonstrates the skills desired for a summer intern. For convenience sake, I have organized my work into three directories above. No single project or program included can be boiled down into a single category, so I have taken some creative liberty in assigning each entry. 
 
 ## Additional Material Upon Request
 Upon request, I can provide you with access to additional repositories (non-public facing), containing ongoing/completed projects. Shown below are some projects that might be of interest if additional material is desired:  
@@ -18,8 +11,9 @@ There is no question that people of color are over-represented as a portion of t
 A local newspaper recently published a series laying blame for the status quo at the feet of Florida's judges. The series purports to be data-driven, yet makes no attempt to share the raw data and methodology used with the general public. A lack of transparency damages the credibility of the results published. 
 
 This project seeks to accomplish the following goals in the short-run:
-	1. Perform an analysis of the role Judge's play in sentencing bias and make these methodology transparent and the results reproducible.
-	2. Construct a public database designed to investigate the sentencing data associated with Florida's judges
+	
+    1. Perform an analysis of the role Judge's play in sentencing bias and make these methodology transparent and the results reproducible.
+    2. Construct a public database designed to investigate the sentencing data associated with Florida's judges
 
 
 ### The Last Words of Death Row Inmates | Sentiment Analysis
