@@ -19,8 +19,8 @@ A local newspaper recently published a series laying blame for the status quo at
 
 This project seeks to accomplish the following goals in the short-run:
 	
-	1. Perform an analysis of the role Judge's play in sentencing bias and make these methodology transparent and the results reproducible.
-	2. Construct a public database designed to investigate the sentencing data associated with Florida's judges
+    * Perform an analysis of the role Judge's play in sentencing bias and make these methodology transparent and the results reproducible.
+    * Construct a public database designed to investigate the sentencing data associated with Florida's judges
 
 
 ### The Last Words of Death Row Inmates | Sentiment Analysis
