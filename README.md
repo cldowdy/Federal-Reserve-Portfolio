@@ -1,13 +1,6 @@
 # Federal Reserve Bank of Kansas City: Internship Portfolio 
 
-I have collected a small subset of my work that I believe demonstrates the skills desired for a summer intern. For convenience sake, I have organized my work into three directories outlined below. No single project or program included can be boiled down into a single category, so I have taken some creative liberty in assigning each entry. 
-
-## Contents:
-
-- **Analysis-and-Modeling**
-- **Data-Collection**
-- **Programming**
-
+I have collected a small subset of my work that I believe demonstrates the skills desired for a summer intern. For convenience sake, I have organized my work into three directories above. No single project or program included can be boiled down into a single category, so I have taken some creative liberty in assigning each entry. 
 
 ## Additional Material Upon Request
 Upon request, I can provide you with access to additional repositories (non-public facing), containing ongoing/completed projects. Shown below are some projects that might be of interest if additional material is desired:  
